@@ -1,0 +1,9 @@
+E:\rfilee\eFILE\eFILE\eFileApp\bin\Debug\eFileApp.exe.config
+E:\rfilee\eFILE\eFILE\eFileApp\bin\Debug\eFileApp.exe
+E:\rfilee\eFILE\eFILE\eFileApp\bin\Debug\eFileApp.pdb
+E:\rfilee\eFILE\eFILE\eFileApp\obj\Debug\eFileApp.Form1.resources
+E:\rfilee\eFILE\eFILE\eFileApp\obj\Debug\eFileApp.Properties.Resources.resources
+E:\rfilee\eFILE\eFILE\eFileApp\obj\Debug\eFileApp.csproj.GenerateResource.cache
+E:\rfilee\eFILE\eFILE\eFileApp\obj\Debug\eFileApp.csproj.CoreCompileInputs.cache
+E:\rfilee\eFILE\eFILE\eFileApp\obj\Debug\eFileApp.exe
+E:\rfilee\eFILE\eFILE\eFileApp\obj\Debug\eFileApp.pdb
